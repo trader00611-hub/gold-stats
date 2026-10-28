@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.venv/
+data/fred_monthly.csv
+data/gpr_monthly.csv
+data/wgc_quarterly.csv
+results.md
+walk_forward_predictions.csv
