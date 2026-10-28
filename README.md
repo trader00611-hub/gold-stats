@@ -1,4 +1,11 @@
-# Gold price drivers: a reproducible monthly model
+# Gold stats
+
+This repository currently contains two small, independent projects:
+
+- [Monthly gold-price drivers model](#gold-price-drivers-a-reproducible-monthly-model): econometric analysis and reproducible FRED/WGC/GPR data workflow.
+- [DETR object detection with VITS audio description](object-detection-audio/README.md): Gradio app for annotated detections and spoken scene descriptions.
+
+## Gold price drivers: a reproducible monthly model
 
 An econometric starter project for studying monthly USD gold returns, not predicting a spot-price level or establishing causation. It covers oil, USD/JPY, a broad trade-weighted dollar proxy, US real yields, Fed policy, the Dow, geopolitical risk, and optional ECB/BOJ policy rates and World Gold Council (WGC) supply/demand data.
 
